@@ -4,7 +4,7 @@ title: "Setup Solr cluster with Zookeeper ensemble on Windows"
 author: "Bram Stoop"
 categories: [Architecture, ARM, Azure, PAAS, Sitecore, Solr, Zookeeper]
 tags: [Azure, Azure Loadbalancer, Cluster, Sitecore, Solr, Windows, Zookeeper]
-image: solr-cluster.png
+image: solr_cluster.svg
 ---
 
 Within this post I will show you how to setup a Solr cluster with a Zookeeper ensemble while load being distributed by an Azure loadbalancer.
