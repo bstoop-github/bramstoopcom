@@ -21,3 +21,6 @@ author:              "Bram Stoop"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+#specify amount of posts shown (max)
+paginate: 2
