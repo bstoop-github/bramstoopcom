@@ -9,13 +9,7 @@ image: solr-cluster.png
 
 Within this post I will show you how to setup a Solr cluster with a Zookeeper ensemble while load being distributed by an Azure loadbalancer.
 
-
-
-![](https://bramstoop.com/wp-content/uploads/2020/08/Solr-cluster.png)
-
 *Note: There is no SSL used and in the future the Azure loadbalancer might get replaced by an Application Gateway.*
-
-
 
 I would like to thank the owners (amongst others, I probably missed) of the following blogs for being a more than valuable source of information:
 
